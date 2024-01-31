@@ -2,7 +2,8 @@
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | [ShortPersianEmo](https://github.com/vkiani/ShortPersianEmo) | Emotion | happiness, sadness, anger, fear, and other | 5 | 5472 | Twitter, Digikala | RachaelJack | 2023 | GNU | Investigating shallow and deep learning techniques for emotion classification in short Persian texts |
 | [JAMFA](https://github.com/Azadsee/JAMFA) | Emotion | Anger/Disgust, Happiness, Fear/Surprise, Sadness | 4 | 2241 | Fiction | EKMAN | 2022 | --- | Deep Emotion Detection Sentiment Analysis of Persian Literary Text |
-| [ PersianTweets](https://www.kaggle.com/datasets/behdadkarimi/persian-tweets-emotional-dataset) | Emotion | Anger, Disgust, joy, Fear, Surprise, Sadness | 6 | 113829 | Twitter | EKMAN | 2021 | --- | - |
+| [PersianTweets](https://www.kaggle.com/datasets/behdadkarimi/persian-tweets-emotional-dataset) | Emotion | Anger, Disgust, joy, Fear, Surprise, Sadness | 6 | 113829 | Twitter | EKMAN | 2021 | Author's permission | - |
+| [ArmanEmo](https://github.com/arman-rayan-sharif/arman-text-emotion?tab=readme-ov-file) | Emotion | Anger, Fear, Happiness, Hatred, Sadness, Wonder, Other | 7 | 7308 |  Twitter, Instagram, and Digikala | EKMAN | 2022 | non-commercial use | - | ARMANEMO: A PERSIAN DATASET FOR TEXT-BASED EMOTION DETECTION
 
 
 
