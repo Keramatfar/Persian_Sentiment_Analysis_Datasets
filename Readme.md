@@ -5,5 +5,5 @@
 
 
 | DataSet | # Classes | # Samples | Domains | Year | License | Paper Title |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Not available | 3 | 12055 | Twitter | ParsBERT Post-Training for Sentiment Analysis of Tweets Concerning Stock Market |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Not available | 3 | 12055 | Twitter | 2021 | - | ParsBERT Post-Training for Sentiment Analysis of Tweets Concerning Stock Market |
