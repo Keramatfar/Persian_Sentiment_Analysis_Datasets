@@ -11,6 +11,7 @@
 
 | DataSet | # Classes | # Samples | Domains | Year | License | Paper Title | Notes |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Not available | 3 | 12055 | Twitter | 2021 | - | ParsBERT Post-Training for Sentiment Analysis of Tweets Concerning Stock Market |   |
-| [JAMFA](https://github.com/Azadsee/JAMFA) | 2 | 2241 | Fiction | 2022 | - | Deep Emotion Detection Sentiment Analysis of Persian Literary Text |   |
-| [Pars-ABSA](https://github.com/Titowak/Pars-ABSA) | 3 | 10002 | Digikala | 2022 | - | Pars-ABSA: a Manually Annotated Aspect-based Sentiment Analysis Benchmark on Farsi Product Reviews | Aspect based  |
+| Not available | 3 | 12055 | Twitter | 2021 | - | ParsBERT Post-Training for Sentiment Analysis of Tweets Concerning Stock Market | - |
+| [JAMFA](https://github.com/Azadsee/JAMFA) | 2 | 2241 | Fiction | 2022 | Author's permission | Deep Emotion Detection Sentiment Analysis of Persian Literary Text | - |
+| [Pars-ABSA](https://github.com/Titowak/Pars-ABSA) | 3 | 10002 | Digikala | 2022 | not specified | Pars-ABSA: a Manually Annotated Aspect-based Sentiment Analysis Benchmark on Farsi Product Reviews | Aspect based  |
+| [Snappfood](https://www.kaggle.com/datasets/soheiltehranipour/snappfood-persian-sentiment-analysis) | 2 | 70000 | Snappfood | 2022 | not specified | - | - |
