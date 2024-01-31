@@ -1,7 +1,7 @@
 | DataSet | Type | Classes | # Classes | # Samples | Domains | EmotionModel | Year | License | paper |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | [ShortPersianEmo](https://github.com/vkiani/ShortPersianEmo) | Emotion | happiness, sadness, anger, fear, and other | 5 | 5472 | Twitter, Digikala | RachaelJack | 2023 | GNU | Investigating shallow and deep learning techniques for emotion classification in short Persian texts |
-| [JAMFA](https://github.com/Azadsee/JAMFA) | Emotion | Anger/Disgust, Happiness, Fear/Surprise, Sadness | 4 | 5472 | Fiction | Fiction | 2022 | - | --- | Deep Emotion Detection Sentiment Analysis of Persian Literary Text |
+| [JAMFA](https://github.com/Azadsee/JAMFA) | Emotion | Anger/Disgust, Happiness, Fear/Surprise, Sadness | 4 | 2241 | Fiction | EKMAN | 2022 | --- | Deep Emotion Detection Sentiment Analysis of Persian Literary Text |
 
 
 
