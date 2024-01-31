@@ -1,7 +1,7 @@
 | DataSet | Type | Classes | # Classes | # Samples | Domains | EmotionModel | Year | License |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| [ShortPersianEmo](https://github.com/vkiani/ShortPersianEmo) | Emotion | happiness, sadness, anger, fear, and other | 5472 | Twitter, Digikala | RachaelJack | 2023 |
-| [ShortPersianEmo](https://github.com/vkiani/ShortPersianEmo) | Emotion | happiness, sadness, anger, fear, and other | 5472 | Twitter, Digikala | RachaelJack | 2022 |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| [ShortPersianEmo](https://github.com/vkiani/ShortPersianEmo) | Emotion | happiness, sadness, anger, fear, and other | 5472 | Twitter, Digikala | RachaelJack | 2023 | GNU |
+| [ShortPersianEmo](https://github.com/vkiani/ShortPersianEmo) | Emotion | happiness, sadness, anger, fear, and other | 5472 | Twitter, Digikala | RachaelJack | 2022 | GNU |
 
 
 | DataSet | # Classes | # Samples | Domains | Year | License | Paper Title |
