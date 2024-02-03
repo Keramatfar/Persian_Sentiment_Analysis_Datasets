@@ -15,4 +15,5 @@
 | [JAMFA](https://github.com/Azadsee/JAMFA) | 2 | 2241 | Fiction | 2022 | Author's permission | Deep Emotion Detection Sentiment Analysis of Persian Literary Text | - |
 | [Pars-ABSA](https://github.com/Titowak/Pars-ABSA) | 3 | 10002 | Digikala | 2022 | not specified | Pars-ABSA: a Manually Annotated Aspect-based Sentiment Analysis Benchmark on Farsi Product Reviews | Aspect based  |
 | [Snappfood](https://www.kaggle.com/datasets/soheiltehranipour/snappfood-persian-sentiment-analysis) | 2 | 70000 | Snappfood | 2022 | not specified | - | - |
-| [DeepSentiPers](https://github.com/JoyeBright/DeepSentiPers) | 5 | 19550 | Digikala | 2020 | not specified | not specified | DeepSentiPers: Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus |
+| [DeepSentiPers](https://github.com/JoyeBright/DeepSentiPers) | 5 | 19550 | Digikala | 2020 | not specified | DeepSentiPers: Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus | - |
+| Product reviews dataset | 2 | 3000 | Digikala | 2018 | not specified | Words are important: Improving sentiment analysis in the persian language by lexicon refining | - |
