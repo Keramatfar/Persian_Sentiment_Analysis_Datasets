@@ -17,3 +17,4 @@
 | [Snappfood](https://www.kaggle.com/datasets/soheiltehranipour/snappfood-persian-sentiment-analysis) | 2 | 70000 | Snappfood | 2022 | not specified | - | - |
 | [DeepSentiPers](https://github.com/JoyeBright/DeepSentiPers) | 5 | 19550 | Digikala | 2020 | not specified | DeepSentiPers: Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus | - |
 | Product reviews dataset | 2 | 3000 | Digikala | 2018 | not specified | Words are important: Improving sentiment analysis in the persian language by lexicon refining | - |
+| Hotel reviews dataset | 2 | 3600 | hellokish | 2015 | not specified | Opinion Mining in Persian Language Using Supervised Algorithms | - |
