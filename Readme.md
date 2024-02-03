@@ -20,4 +20,4 @@
 | Hotel reviews dataset | 2 | 3600 | hellokish | 2015 | not specified | Opinion Mining in Persian Language Using Supervised Algorithms | - |
 | Not specified | 2 | 8373 | Sahamyab | 2019 | not specified | Tehran Stock Exchange Prediction Using Sentiment Analysis of Online Textual Opinions | Bullish or Bearish instead of positive or negative |
 | Not specified | 3 | 12055 | Twitter | 2021 | not specified | ParsBERT Post-Training for Sentiment Analysis of Tweets Concerning Stock Market | - |
-| [Multimodal-Persian-SA](https://github.com/mebasiri/Multimodal-Persian-Sentiment-Analysis) | 2 | 1000 | Instagram, Telegram | 2021 | not specified | Sentiment Analysis of Persian Instagram Post: a Multimodal Deep Learning Approach |
+| [Multimodal-Persian-SA](https://github.com/mebasiri/Multimodal-Persian-Sentiment-Analysis) | 2 | 1000 | Instagram, Telegram | 2021 | not specified | Sentiment Analysis of Persian Instagram Post: a Multimodal Deep Learning Approach | Molti-Modal, Text and image |
