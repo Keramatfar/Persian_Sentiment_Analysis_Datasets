@@ -13,12 +13,12 @@
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Not specified | 3 | 12055 | Twitter | 2021 | - | ParsBERT Post-Training for Sentiment Analysis of Tweets Concerning Stock Market | - |
 | [JAMFA](https://github.com/Azadsee/JAMFA) | 2 | 2241 | Fiction | 2022 | Author's permission | Deep Emotion Detection Sentiment Analysis of Persian Literary Text | - |
-| [Pars-ABSA](https://github.com/Titowak/Pars-ABSA) | 3 | 10002 | Digikala | 2022 | not specified | Pars-ABSA: a Manually Annotated Aspect-based Sentiment Analysis Benchmark on Farsi Product Reviews | Aspect based  |
-| [Snappfood](https://www.kaggle.com/datasets/soheiltehranipour/snappfood-persian-sentiment-analysis) | 2 | 70000 | Snappfood | 2022 | not specified | - | - |
-| [DeepSentiPers](https://github.com/JoyeBright/DeepSentiPers) | 5 | 19550 | Digikala | 2020 | not specified | DeepSentiPers: Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus | - |
+| [Pars-ABSA](https://github.com/Titowak/Pars-ABSA) | 1:5114, 0:1827, -1:3061 | 10002 | Digikala | 2022 | not specified | Pars-ABSA: a Manually Annotated Aspect-based Sentiment Analysis Benchmark on Farsi Product Reviews | Aspect based  |
+| [Snappfood](https://www.kaggle.com/datasets/soheiltehranipour/snappfood-persian-sentiment-analysis) | 1:35000, 0:35000 | 70000 | Snappfood | 2022 | not specified | - | - |
+| [DeepSentiPers](https://github.com/JoyeBright/DeepSentiPers) | 2:988, 1:1623, 0:2409, -1:513, -2:28 | 19550 | Digikala | 2020 | not specified | DeepSentiPers: Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus | - |
 | Product reviews dataset | 2 | 3000 | Digikala | 2018 | not specified | Words are important: Improving sentiment analysis in the persian language by lexicon refining | - |
 | Hotel reviews dataset | 2 | 3600 | hellokish | 2015 | not specified | Opinion Mining in Persian Language Using Supervised Algorithms | - |
 | Not specified | 2 | 8373 | Sahamyab | 2019 | not specified | Tehran Stock Exchange Prediction Using Sentiment Analysis of Online Textual Opinions | Bullish or Bearish instead of positive or negative |
 | Not specified | 3 | 12055 | Twitter | 2021 | not specified | ParsBERT Post-Training for Sentiment Analysis of Tweets Concerning Stock Market | - |
-| [Multimodal-Persian-SA](https://github.com/mebasiri/Multimodal-Persian-Sentiment-Analysis) | 2 | 1000 | Instagram, Telegram | 2021 | not specified | Sentiment Analysis of Persian Instagram Post: a Multimodal Deep Learning Approach | Multi-Modal, Text and image |
+| [Multimodal-Persian-SA](https://github.com/mebasiri/Multimodal-Persian-Sentiment-Analysis) | 1:561, 0:439 | 1000 | Instagram, Telegram | 2021 | not specified | Sentiment Analysis of Persian Instagram Post: a Multimodal Deep Learning Approach | Multi-Modal, Text and image |
 | InstaText | 3 | 8512 | Instagram | 2021 | not specified | Producing An Instagram Dataset for Persian Language Sentiment Analysis Using Crowdsourcing Method | - |
